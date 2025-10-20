@@ -70,10 +70,10 @@ OLA Data Analyst Project
 
 # Referance image of Power Bi dashboard
 <img width="1104" height="622" alt="Overall" src="./Slides/Overall.png" />
-<img width="1104" height="622" alt="Overall" src="./Slides/Overall.png" />
-<img width="1104" height="622" alt="Overall" src="./Slides/Overall.png" />
-<img width="1104" height="622" alt="Overall" src="./Slides/Overall.png" />
-<img width="1104" height="622" alt="Overall" src="./Slides/Overall.png" />
-<img width="1104" height="622" alt="Overall" src="./Slides/Overall.png" />
+<img width="1104" height="622" alt="Vehicle Type" src="./Slides/Vehicle Type.png" />
+<img width="1104" height="622" alt="Revenue" src="./Slides/Revenue.png" />
+<img width="1104" height="622" alt="Cancellation" src="./Slides/Cancellation.png" />
+<img width="1104" height="622" alt="Ratings" src="./Slides/Ratings.png" />
+
 
 
