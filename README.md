@@ -69,10 +69,11 @@ OLA Data Analyst Project
 
 
 # Referance image of Power Bi dashboard
-<img width="1104" height="622" alt="Overall" src="D:\CODING PRTK\Projects\Ride-Booking-Analytics-Dashboard\Slides\Overall.png" />
-<img width="1101" height="621" alt="Screenshot 2025-10-01 220408" src="https://github.com/user-attachments/assets/2643706c-6c91-4aba-bfb0-ebdf5859936c" />
-<img width="1103" height="627" alt="Screenshot 2025-10-01 220458" src="https://github.com/user-attachments/assets/f2ef465d-c725-4a0a-8e89-28b7dd307772" />
-<img width="1101" height="620" alt="Screenshot 2025-10-01 220445" src="https://github.com/user-attachments/assets/62485d57-fcfc-4cd1-8f75-83ef59971a4b" />
-<img width="1104" height="621" alt="Screenshot 2025-10-01 220433" src="https://github.com/user-attachments/assets/66b01fa5-5030-448a-be99-68e6c9c2ba88" />
+<img width="1104" height="622" alt="Overall" src="./Slides/Overall.png" />
+<img width="1104" height="622" alt="Overall" src="./Slides/Overall.png" />
+<img width="1104" height="622" alt="Overall" src="./Slides/Overall.png" />
+<img width="1104" height="622" alt="Overall" src="./Slides/Overall.png" />
+<img width="1104" height="622" alt="Overall" src="./Slides/Overall.png" />
+<img width="1104" height="622" alt="Overall" src="./Slides/Overall.png" />
 
 
