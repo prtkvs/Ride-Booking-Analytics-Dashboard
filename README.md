@@ -69,7 +69,7 @@ OLA Data Analyst Project
 
 
 # Referance image of Power Bi dashboard
-<img width="1104" height="622" alt="Screenshot 2025-10-01 220421" src="https://github.com/user-attachments/assets/d9cea80f-bea1-4b4a-9ded-da037104ff16" />
+<img width="1104" height="622" alt="Overall" src="D:\CODING PRTK\Projects\Ride-Booking-Analytics-Dashboard\Slides\Overall.png" />
 <img width="1101" height="621" alt="Screenshot 2025-10-01 220408" src="https://github.com/user-attachments/assets/2643706c-6c91-4aba-bfb0-ebdf5859936c" />
 <img width="1103" height="627" alt="Screenshot 2025-10-01 220458" src="https://github.com/user-attachments/assets/f2ef465d-c725-4a0a-8e89-28b7dd307772" />
 <img width="1101" height="620" alt="Screenshot 2025-10-01 220445" src="https://github.com/user-attachments/assets/62485d57-fcfc-4cd1-8f75-83ef59971a4b" />
